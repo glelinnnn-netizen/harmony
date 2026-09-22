@@ -19,7 +19,8 @@
         "monochromeImage": "./assets/images/harmony_icon.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.engineerharmony.harmony"
     },
     "web": {
       "output": "server",
@@ -47,6 +48,12 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "8a22f2a8-3e28-4e42-93d6-6b1de5a99ea7"
+      }
     }
   }
 }

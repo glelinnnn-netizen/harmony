@@ -21,7 +21,7 @@ type Message = { role: 'user' | 'assistant'; content: string };
 
 // 👇 Codespaces forwarded URL for port 8081 (must be PUBLIC in the PORTS tab)
 const API_URL =
-  'https://super-duper-space-halibut-jr7jqwq5676jcpjxq-8081.app.github.dev/api/chat';
+  'https://engineer-harmony-harmony.expo.app/api/chat';
 
 const GREETING =
   "Hi, I'm Harmony 🌿 Your everyday health companion. Ask me anything about wellness, nutrition, or how you're feeling. I'm not a doctor — for medical concerns, please see a professional.";
